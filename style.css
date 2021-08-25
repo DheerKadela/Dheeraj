@@ -1,0 +1,224 @@
+@font-face {
+    font-family: Clip;
+    src: url("https://acupoftee.github.io/fonts/Clip.ttf");
+  }
+  
+body{margin:0;padding:0;background-image: url('bg.jpeg');font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}body{background-color:#383737}.card{border:none;border-radius:10px}.c-details span{font-weight:300;font-size:13px}.icon{width:50px;height:50px;background-color:#eee;border-radius:15px;font-size:39px}.badge span,.icon{display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;-webkit-justify-content:center;justify-content:center}.badge span{background-color:#fffbec;width:60px;height:25px;padding-bottom:3px;border-radius:5px;color:#fed85d}.progress{height:10px;border-radius:10px}.progress div{background-color:red}.text_little{font-size:12px;font-weight:600;color:#2b4374}.text1{font-size:15px;font-weight:600}.text2{color:#a5aec0}.xonologosize{height:3em;width:8em}.App{text-align:center}.App-logo{-webkit-animation:App-logo-spin 20s linear infinite;animation:App-logo-spin 20s linear infinite;height:40vmin}.App-header{background-color:#282c34;min-height:100vh;display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;-webkit-align-items:center;align-items:center;-webkit-justify-content:center;justify-content:center;font-size:calc(10px + 2vmin);color:#fff}.App-link{color:#61dafb}@-webkit-keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}
+}
+#navbar
+{
+   padding-top: 0cm;
+   margin-top: .5mm;
+   background-image: url('navfoto.jpeg');
+   
+    height: 2.5cm;
+    border-radius: 5mm;
+background-color: white;
+}
+#navbar h3
+{
+    margin-top: 0cm;
+    color: white;
+    font-size: .8cm;
+    font-family: Garamond;
+    text-align: center;
+    
+}
+
+
+#leftbar
+{
+    background-color: lavender;
+    margin-right: 90%;
+    padding-top: 0cm;
+    text-decoration: none;
+}
+#navbar a
+{
+    
+    text-decoration: none;
+    font-size: medium; 
+    color: white;
+    margin-top: 0%;
+     margin-left: 10%; 
+    font-size: 0.5cm;
+    text-align: center;
+}
+#navbar a:hover
+{
+    background: rgb(150, 149, 149);
+    border-radius: 1mm;
+}
+
+#centerbar
+{
+    margin-top: 0.5cm;
+    height: 4cm;
+    
+}
+#dheer
+{
+    margin-top: 0cm;
+    height: 3cm;
+    border: white;
+    border-radius: 50mm;
+    margin-left: 40%;
+}
+#me
+{
+    margin-left: 18%;
+    margin-right: 18%;
+    border-radius: 3mm;
+    
+    background-image: url(photo5.jpeg);
+    background-color: white;
+}
+
+
+
+
+#rightbar
+{
+    margin-left: 85%;
+    padding-top: 0mm;
+    margin-top: 0mm;
+}
+#userdata
+{
+    height: 4cm;
+    align-items: center;
+    background-image: url(navfoto.jpeg);
+    color: white;
+}
+#submit
+{
+    background-color: lightblue;
+    border: black;
+    
+    
+}
+#submit:hover
+{
+    background-color: grey;
+}
+#your
+{
+color: white;
+}
+#gallery
+{
+    margin-top: 30cm;
+    background-color: white;
+      
+}
+#linked
+{
+    height: 0cm;
+    margin-left: 33%;
+    
+}
+#fb
+{
+    
+    height: 1.5cm; 
+    margin-left: 5mm;
+     
+}
+#insta
+{
+    
+    height: 1.5cm;  
+    margin-left: 5mm;
+    
+}
+
+#github
+{
+    
+    height: 1.5cm;  
+    margin-left: 5mm;
+    
+}
+
+#interview
+{
+    
+    height: 1.5cm;  
+    margin-left: 3mm;
+    
+}
+
+#link
+{
+    
+    color: white;
+    text-decoration: none;
+     margin-left: 33%; 
+    
+    
+}
+#link:hover
+{
+    color: black;
+}
+
+#face
+{
+    margin-left: 0cm;
+    color: white;
+    text-decoration: none;
+    margin-left: 1%;
+}
+#face:hover
+{
+    color: black;
+}
+
+#insta2
+{
+    margin-left: 0cm;
+    color: white;
+    text-decoration: none;
+    margin-left: 3mm;
+}
+#insta2:hover
+{
+    color: black;
+}
+
+#github2
+{
+    margin-left: 0cm;
+    color: white;
+    text-decoration: none;
+    margin-left: 2mm;
+}
+#github2:hover
+{
+    color: black;
+}
+
+#inter2
+{
+    margin-left: 0cm;
+    color: white;
+    text-decoration: none;
+    margin-left: 5mm;
+}
+#inter2:hover
+{
+    color: black;
+}
+#contectg
+{
+    text-align: center;
+    color: white;
+}
+
+#bottom
+{
+    
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 5cm;
+}
